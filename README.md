@@ -39,3 +39,6 @@ This MERN-based Job Portal simplifies the hiring process for both job seekers an
 # Images
 
 ![image alt](https://github.com/AliChkhiro/-Full-Stack-Job_Recruitment-platform/blob/02da5e5f89b3df7b61c5e62a984b4485f7939711/01.png)
+
+
+![image alt](https://github.com/AliChkhiro/-Full-Stack-Job_Recruitment-platform/blob/13b504d01bacdc9fd2a303c5fc3bd47f865a03ef/02.jpg)
